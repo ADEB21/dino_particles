@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css2?family=Rubik:wght@700&display=swap);
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    background-color: #000000;
+    overflow: hidden;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+#button{
+    border: none;
+    outline: none;
+    position: absolute;
+    right: 0;
+    color: white;
+    z-index: 10;
+    width: 15vw;
+    height: 5vh;
+    font-size: 16px;
+    font-family: 'Rubik', sans-serif;
+}
+
+#button{
+    background-color:#000000 ;
+}
+
+
+
+/*# sourceMappingURL=main.css.map*/
